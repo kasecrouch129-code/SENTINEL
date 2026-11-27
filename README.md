@@ -1,6 +1,8 @@
-# SENTINEL — repository setup in progress
+# SENTINEL Desktop
 
-> The documentation is published. The source package still needs to be uploaded before these commands can run from this repository.
+> **Import in progress:** the desktop interface and launcher have been uploaded, but the remaining scanner engine and rules have not yet been imported. This checkout is not a complete runnable release.
+
+On Windows extract the complete ZIP, then double-click `OPEN SENTINEL.cmd`. The redesigned Tkinter interface has a findings table, evidence panel, progress indicator, scan activity, report access and startup diagnostics. Python 3.11+ with Tcl/Tk is required; optional dependencies extend coverage. No Windows executable or interpreter is bundled.
 
 # SENTINEL 4.0 — offline threat hunting workbench
 
