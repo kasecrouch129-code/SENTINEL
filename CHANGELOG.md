@@ -1,5 +1,10 @@
 # Changelog
 
+## Desktop launcher update
+- Redesigned desktop findings and evidence view; readable startup failures and Python launcher fallback.
+- GUI integration smoke test with harmless local file.
+- Windows launch still requires runtime validation.
+
 ## 4.0.0
 - Desktop GUI, trainable offline classifier, offline feed imports and evaluation.
 - Cross-view process checks and opt-in exact-hash containment (rename only).
